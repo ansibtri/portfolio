@@ -40,7 +40,7 @@ const projectList = [
     title: "Portfolio Website",
     description:
       "This is my Portfolio Website made with HTML, CSS and JS.",
-    url: "https://ecommerce-phi-gules.vercel.app/",
+    url: "https://ansibtri.github.io/",
   },
 ];
 
